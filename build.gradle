@@ -12,8 +12,6 @@ version = '0.0.6-SNAPSHOT'
 description = 'Java library to build bots for Max messenger'
 
 java {
-    sourceCompatibility = JavaVersion.VERSION_17
-    targetCompatibility = JavaVersion.VERSION_17
     withSourcesJar()
     withJavadocJar()
 }
